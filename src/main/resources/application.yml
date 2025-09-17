@@ -1,0 +1,8 @@
+org:
+  eleks:
+    interview:
+      exercise:
+        weather:
+          api:
+            url: "http://api.weatherapi.com/v1"
+            key: "REPLACE-ME"

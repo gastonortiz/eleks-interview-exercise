@@ -1,1 +1,0 @@
-# eleks-interview-excercise
