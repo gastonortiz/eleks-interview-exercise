@@ -5,4 +5,4 @@ org:
         weather:
           api:
             url: "http://api.weatherapi.com/v1"
-            key: "REPLACE-ME"
+            key: ${WEATHER_API_KEY}

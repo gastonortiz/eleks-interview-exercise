@@ -73,6 +73,9 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
+                    <layers>
+                        <enabled>true</enabled>
+                    </layers>
                     <excludes>
                         <exclude>
                             <groupId>org.projectlombok</groupId>
@@ -118,6 +121,8 @@
                     </execution>
                 </executions>
             </plugin>
+
+            <!-- Generates code coverage reports. -->
             <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
