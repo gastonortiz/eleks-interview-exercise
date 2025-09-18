@@ -13,6 +13,8 @@ But wanting to make a good impression (hopefully) I will also include the follow
 2. How to see the coverage report of the tests
 3. What errors will be shown
 
+If you're looking for the general design document, please check [this](/docs/Design.pdf).
+
 Alright, let's get started!
 
 ## How to run the application
