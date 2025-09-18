@@ -52,8 +52,8 @@ public class HttpClientService {
         } catch (IOException e) {
             throw new HttpConnectionException(e);
         }
-
     }
+
     private <T> T parseResponse(Response response, Class<T> parsedClass) {
         return Optional.of(response)
                 .map(Response::body)
