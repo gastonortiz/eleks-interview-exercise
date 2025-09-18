@@ -6,7 +6,7 @@
 
     <groupId>org.eleks</groupId>
     <artifactId>interview-excercise</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>demo</name>
     <description>Demo Spring Boot project</description>
 
